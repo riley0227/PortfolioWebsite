@@ -666,12 +666,12 @@ body:after {
     font-family: "Arbutus Slab", serif; }
   .site-blocks-cover .img-face {
     position: absolute;
-    right: -5%;
+    right: -0%;
     bottom: 0;
     z-index: 1; }
     @media (max-width: 991.98px) {
       .site-blocks-cover .img-face {
-        right: -25%; } }
+        right: -0%; } }
 .img-face{
   height: 725px;
   margin-left: 35px;
